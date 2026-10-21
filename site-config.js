@@ -9,7 +9,7 @@ window.SiteConfig = {
       "+2347120161312"
     ],
     address: "404 Hotoron Kudu Cikin Gari, Nasarawa LGA, Kano State, Nigeria",
-    baseUrl: "https://example.com"
+    baseUrl: "https://alhusabkn3-art.github.io/GY-NEXUS-LIMITED"
   },
   gydata: {
     title: "GY DATA",
