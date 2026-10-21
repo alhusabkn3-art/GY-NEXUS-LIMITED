@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" role="img" aria-labelledby="title desc">
+  <title id="title">GY DATA logo</title>
+  <desc id="desc">GY DATA digital service platform logo</desc>
+  <defs>
+    <linearGradient id="dataGradient" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#18d4ff"/>
+      <stop offset="100%" stop-color="#0b66d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="120" rx="20" fill="#071a3a"/>
+  <g transform="translate(18 18)">
+    <rect x="0" y="0" width="84" height="84" rx="22" fill="#0d224d"/>
+    <path d="M21 28h17.8c7.1 0 11.9 3.8 11.9 9.9 0 5.6-4 9.1-11.4 9.9l-7.6 1.2v13.5H21V28zm15.1 16.6c5.3 0 8.2-1.8 8.2-5.2 0-3.5-2.8-5.1-8.2-5.1h-6v10.3h6z" fill="url(#dataGradient)"/>
+  </g>
+  <g fill="#f5f8fc" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    <text x="120" y="54" font-size="32">GY DATA</text>
+    <text x="120" y="82" font-size="18" fill="#9cc7ff" letter-spacing="2">DIGITAL SERVICES</text>
+  </g>
+</svg>

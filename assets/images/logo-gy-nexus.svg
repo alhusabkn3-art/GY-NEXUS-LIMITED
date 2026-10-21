@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-labelledby="title desc">
+  <title id="title">GY NEXUS LIMITED logo</title>
+  <desc id="desc">GY NEXUS LIMITED brand logo</desc>
+  <defs>
+    <linearGradient id="logoGradient" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#19b7e8"/>
+      <stop offset="100%" stop-color="#0b66d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="120" rx="20" fill="#071a3a"/>
+  <g transform="translate(18 18)">
+    <rect x="0" y="0" width="84" height="84" rx="22" fill="#0d224d"/>
+    <path d="M20 20h18.5L42 40.5 52.5 20H71v44H56.2V39.5L46.8 54h-9.6L27 39.5v24.5H20V20zm20 11.8L42 38.5l-2.2-6.7h4.4z" fill="url(#logoGradient)"/>
+  </g>
+  <g fill="#f5f8fc" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    <text x="120" y="54" font-size="30">GY NEXUS</text>
+    <text x="120" y="83" font-size="18" fill="#9cc7ff" letter-spacing="2">LIMITED</text>
+  </g>
+</svg>
